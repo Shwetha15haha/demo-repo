@@ -1,2 +1,3 @@
-# demo-repo
-Demo project for beginner
+#Demo
+
+Excited to learn
